@@ -12,7 +12,7 @@
     - ${\displaystyle \sigma _{y}^{2}}$ the variance of ${\displaystyle y}$
     - ${\displaystyle \sigma _{xy}}$ the covariance of ${\displaystyle x}$ and ${\displaystyle y}$
     - ${\displaystyle c_{1}=(k_{1}L)^{2}}$, ${\displaystyle c_{2}=(k_{2}L)^{2}}$ two variables to stabilize the division with weak denominator
-    - ${\displaystyle L}$ the dynamic range of the pixel-values (typically this is ${\displaystyle 2^{\#bits\ per\ pixel}-1}$
+    - ${\displaystyle L}$ the dynamic range of the pixel-values (typically this is ${\displaystyle 2^{\ bits\ per\ pixel}-1}$
     - ${\displaystyle k_{1}=0.01}$ and ${\displaystyle k_{2}=0.03}$ by default
 
 ## 3. Reference 
